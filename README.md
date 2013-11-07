@@ -1,0 +1,2 @@
+== README
+Flashcards on Rails!
