@@ -5,5 +5,5 @@ FlashcardsOnRails::Application.routes.draw do
 
   get "/decks/new" => "decks#new"
   get "/decks/:id" => "decks#show"
-  
+  post "/decks" => "decks#create"
 end
