@@ -19,4 +19,5 @@ doc/
 *~
 .project
 .DS_store
-.idea
+.idea/
+/HTML5bp
